@@ -1,0 +1,26 @@
+
+name :Rakshana
+department :HR
+id :456
+mail id :rakshana@gmail.com
+
+
+name :nusky
+department :HR
+id :456
+mail id :nusky@gmail.com
+
+
+name :thuminthu
+department :HPT
+id :456
+mail id :thuminthu@gmail.com
+
+
+
+
+name :rakshana
+department :IT
+id :31
+mail id :rakshana@gmail.com
+

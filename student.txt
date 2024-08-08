@@ -1,0 +1,32 @@
+
+
+student name :rakshana
+student id :ICT/19/20/018
+age :23
+course name :ICT
+password :4959
+
+student name :nifra
+student id :ICT/19/20/135
+age :23
+course name :ICT
+password :1354
+
+student name :nasra
+student id :ICT/19/20/126
+age :22
+course name :ICT
+password :5674
+
+student name :chathana
+student id :ICT/19/20/165
+age :24
+course name :HP
+password :564
+
+
+student name :raksha
+student id :ICT/19/20/018
+age :24
+course name :ICY
+password :4959

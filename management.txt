@@ -1,0 +1,40 @@
+
+staff name : chanthimal
+staff id :015
+management password :123
+
+
+staff name : kamal
+staff id :456
+management password :123
+
+
+staff name : vimesha
+staff id :459
+management password :123
+
+
+staff name : thimali
+staff id :698
+management password :123
+
+
+staff name : rakshi
+staff id :12
+management password :123
+
+
+staff name : prem
+staff id :46
+management password :123
+
+
+staff name : wee
+staff id :45
+management password :15
+
+
+staff name : rakshana
+staff id :31
+management password :123
+

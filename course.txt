@@ -1,0 +1,26 @@
+
+ICT	232	DataScience
+course instructor :MR.Palliyaguruge
+
+IDC	221	English
+course instructor :ms.Shantha
+
+
+ICT	224	WebTechnology
+course instructor :Ms.Herath
+
+
+ICT	138	Science
+course instructor :Mr.Wimal
+
+
+ICT	242	software
+course instructor :engineering
+
+
+ICT	223	Philosophy
+course instructor :MS.thimali
+
+
+ 
+
